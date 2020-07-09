@@ -1,0 +1,2 @@
+import random
+print(int((random()* 10)%6 + 1))
